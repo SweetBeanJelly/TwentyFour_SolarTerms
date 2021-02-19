@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="DarkGray">#232323</color>
+    <color name="Gray">#BCBCBC</color>
+    <color name="WhiteGray">#ECECEC</color>
+
+    <color name="Red">#D10000</color>
+
+    <color name="Blue1">#479FFF</color>
+    <color name="Blue2">#A7D1FF</color>
+
+    <color name="Green1">#8FE131</color>
+    <color name="Green2">#CAFF8D</color>
+
+    <color name="shimmer_color">#A2EAEAEA</color>
+    <color name="backround_color">#66BB6A</color>
+</resources>
